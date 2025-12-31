@@ -1,6 +1,6 @@
 # Selva J. Pérez – Data Analyst Jr
 
-Analista de Datos Junior en formación, con foco en Python, análisis exploratorio de datos y visualización de datos mediante herramientas BI. 
+Analista de Datos Junior en formación, con foco en Python, análisis exploratorio de datos y visualización mediante herramientas BI. 
 Interesada en transformar datos en información clara y útil para la toma de decisiones.
 
 ## 🛠 Tecnologías
@@ -12,21 +12,18 @@ Interesada en transformar datos en información clara y útil para la toma de de
 - SQL (básico)
 
 ## 📊 Proyectos destacados
-- **HR Diversity Insights**  
-  Análisis de métricas de diversidad e inclusión y desarrollo de dashboards.  
-  🔗 [Ver proyecto](LINK_AQUI)
 
-- **Análisis de datos con Python**  
-  Limpieza, exploración y visualización de datos en notebooks.  
-  🔗 [Ver proyecto](LINK_AQUI)
+- **Proyecto BI – Ventas e-commerce**  
+  Análisis de ventas y visualización de indicadores clave para la toma de decisiones comerciales.  
+  🔗 https://drive.google.com/drive/folders/1vJe-M15FEoy70vGN9Dxj9fnznWcOm3To
 
-- **Dashboard BI**  
-  Construcción de dashboards interactivos para análisis descriptivo.  
-  🔗 [Ver proyecto](LINK_AQUI)
+- **Proyecto BI – Educación Secundaria**  
+  Análisis de datos educativos y construcción de dashboards para seguimiento y análisis descriptivo.  
+  🔗 https://drive.google.com/drive/folders/13eXikNdR1_QegC_u6ZcybeIn-1BY08Vv
 
-## 📁 Portfolio completo
-📎 Google Drive: LINK_AQUI
+## 📁 Portfolio
+Los proyectos incluyen documentación, datasets y dashboards desarrollados durante el proceso de análisis.
 
 ## 🔗 Contacto
-- LinkedIn: LINK_AQUI
-# wildsoft-sjp-portfolio
+- GitHub: https://github.com/wildsoft-sjp
+- LinkedIn: https://www.linkedin.com/in/selva-j-perez
