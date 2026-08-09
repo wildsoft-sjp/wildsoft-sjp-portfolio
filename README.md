@@ -59,7 +59,7 @@ Análisis de datos educativos y construcción de indicadores para seguimiento ac
 ## Portfolio
 
 🌐 WildSoft  
-https://wild-soft.vercel.app/
+https://wildsoft.com.ar/
 
 ## Contacto
 
